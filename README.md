@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SamSantiago21407.
+- 👋 Hi, I’m Sam Santiago.
 - 👀 I’m interested in Electronics and Robotics.
 - 🌱 I’m currently learning Prompt Engineering and Circuit Design
 - 💞️ I’m looking to collaborate on Electronics, Robotics and AI.
